@@ -1,4 +1,4 @@
-class StunnelAt526 < Formula
+class StunnelAT526 < Formula
   desc "SSL tunneling program"
   homepage "https://www.stunnel.org/"
   url "https://www.stunnel.org/downloads/stunnel-5.41.tar.gz"
